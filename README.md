@@ -14,4 +14,4 @@ Which not only makes artificial intelligence (AI) be no longer limited to humani
 
 ## Thesis
 
-[PDF](./How to make a soul.pdf)
+[PDF](./How-to-make-a-soul.pdf)
